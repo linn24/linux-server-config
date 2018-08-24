@@ -53,3 +53,11 @@
 5) `sudo ufw allow 123/udp`
 6) `sudo ufw enable`
 7) `sudo ufw status`
+
+## Third Party Resources
+1) AWS Light Sail
+2) Google OAuth 2.0
+3) Postgresql
+4) Flask
+5) SQL Alchemy
+6) Git
