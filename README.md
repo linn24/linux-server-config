@@ -3,9 +3,9 @@
 
 ## Configuration on AWS Light Sail
 1) A new instance is created in AWS Light Sail as follow.
-![new instance](/images/IP_address.jpg)
+![new instance](/images/IP_address.JPG)
 2) A custom port 2200 is opened for SSH.
-![new instance](/images/Firewall.jpg)
+![new instance](/images/Firewall.JPG)
 
 ## Packages Installed
 1) `sudo apt-get update`
